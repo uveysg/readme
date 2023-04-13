@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NodeJS<br>🚀 I'm currently developing time and habit tracking app</p>
+<p align="left">🚀 I'm currently developing time and habit tracking app</p>
 
 ###
 
