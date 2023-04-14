@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">This is Uveys, the full stack developer. I've been interested in software since high school and I love the development processes. I had professional experience in two different companies, took part in volunteer projects and I have my own projects that I continue to develop</p>
+<p align="left">This is Uveys, the full stack developer. I love the development processes, I had professional experience in two different companies, took part in volunteer projects and I have my own projects that I continue to develop</p>
 
 ###
 
