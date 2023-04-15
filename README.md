@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 I'm currently developing a time and habit tracking app, and I'm also developing Discord bots.</p>
+<p align="left">🚀 I'm currently developing a time and habit tracking app, and I'm also developing Discord bots.<br>🥲 Some of my project repos have to be private</p>
 
 ###
 
